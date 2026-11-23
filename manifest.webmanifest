@@ -1,0 +1,15 @@
+{
+  "name": "Grow with me",
+  "short_name": "Grow",
+  "description": "Build small habits and grow a gentle virtual garden.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F7FAF6",
+  "theme_color": "#D8F0DF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"assets/icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"},
+    {"src":"assets/icons/icon-maskable.svg","sizes":"any","type":"image/svg+xml","purpose":"maskable"}
+  ]
+}
